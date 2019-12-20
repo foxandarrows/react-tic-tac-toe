@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-tic-tac-toe/static/css/main.a9827d45.chunk.css",
+    "main.js": "/react-tic-tac-toe/static/js/main.158dd89c.chunk.js",
+    "main.js.map": "/react-tic-tac-toe/static/js/main.158dd89c.chunk.js.map",
+    "runtime~main.js": "/react-tic-tac-toe/static/js/runtime~main.a5f725ed.js",
+    "runtime~main.js.map": "/react-tic-tac-toe/static/js/runtime~main.a5f725ed.js.map",
+    "static/js/2.0e3f6a1a.chunk.js": "/react-tic-tac-toe/static/js/2.0e3f6a1a.chunk.js",
+    "static/js/2.0e3f6a1a.chunk.js.map": "/react-tic-tac-toe/static/js/2.0e3f6a1a.chunk.js.map",
+    "index.html": "/react-tic-tac-toe/index.html",
+    "precache-manifest.ad4b211b71e2795a6c52099ce4099780.js": "/react-tic-tac-toe/precache-manifest.ad4b211b71e2795a6c52099ce4099780.js",
+    "service-worker.js": "/react-tic-tac-toe/service-worker.js",
+    "static/css/main.a9827d45.chunk.css.map": "/react-tic-tac-toe/static/css/main.a9827d45.chunk.css.map"
+  }
+}
